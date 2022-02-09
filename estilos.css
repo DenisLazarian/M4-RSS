@@ -1,0 +1,23 @@
+img{
+    height: 30px;
+    
+    float: right;
+    image-orientation: left;
+    margin-right: 60px;
+    
+}
+
+body{
+    margin: 30px;
+    background-color: white;
+
+}
+
+.menu{
+  margin-left: 80px;
+  text-decoration: none;
+  color: black;
+  
+  
+}
+
