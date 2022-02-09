@@ -3,10 +3,24 @@
 
 
 	<channel>
+
+	<title>Example Channel</title>
+    <link>https://denislazarian.github.io/M4-RSS/</link>
+    <description>Pagina web oficial donde descargar RSS</description>
 		<item>
-			<title></title>
-			<description></description>
-			
+			<title>La nueva RTX 4070 GT sale al mercado</title>
+			<description>¿Estarà la nueva RTX 4070 GT a la altura de sus competidores?</description>
+			<link>https://denislazarian.github.io/M4-RSS/Grafica.html</link>
+		</item>
+		<item>
+			<title>El miedo a la computación Quantica</title>
+			<description>¿Serà la seguridad informàtica mundial rival para las futurísticas i esperados ordenadores cuanticos?</description>
+			<link>https://denislazarian.github.io/M4-RSS/ComputacionQuantica.html</link>
+		</item>
+		<item>
+			<title>El nuevo mac de apple sale al mercado</title>
+			<description>¿Serà la nueva mac de apple mejor que sus antecesores?</description>
+			<link>https://denislazarian.github.io/M4-RSS/portatiles.html</link>
 		</item>
 	</channel>
 
