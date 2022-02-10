@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Example Feed</title>
+  <title>canal infromática</title>
   <link href="https://denislazarian.github.io/M4-RSS/"/>
   <updated>2003-12-13T18:30:02Z</updated>
   <author>
@@ -10,11 +10,25 @@
   <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 
   <entry>
-    <title>Atom-Powered Robots Run Amok</title>
+    <title>La nueva RTX 4070 GT sale al mercado</title>
     <link href="https://denislazarian.github.io/M4-RSS/Grafica.html"/>
     <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
     <updated>2003-12-13T18:30:02Z</updated>
     <summary>¿Estarà la nueva RTX 4070 GT a la altura de sus competidores?</summary>
+  </entry>
+  <entry>
+    <title>El miedo a la computación Quantica</title>
+    <link href="https://denislazarian.github.io/M4-RSS/ComputacionQuantica.html"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <summary>¿Serà la seguridad informàtica mundial rival para las futurísticas i esperados ordenadores cuanticos?</summary>
+  </entry>
+  <entry>
+    <title>El nuevo mac de apple sale al mercado</title>
+    <link href="https://denislazarian.github.io/M4-RSS/portatiles.html"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <summary>¿Serà la nueva mac de apple mejor que sus antecesores?</summary>
   </entry>
 
 </feed>
